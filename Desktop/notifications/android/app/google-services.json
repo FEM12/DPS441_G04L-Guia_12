@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093288740788",
+    "project_id": "notificaciones-push-d73da",
+    "storage_bucket": "notificaciones-push-d73da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093288740788:android:7ca7f6af7fed7c167354e1",
+        "android_client_info": {
+          "package_name": "com.fem12.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX1nNlypQwyu1niBCjZFGKw4NCkTgQWq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
